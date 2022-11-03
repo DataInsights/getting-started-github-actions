@@ -37,7 +37,7 @@ jobs:
           echo I s Python in stalled
           python --version
           echo How about git?
-          git -version
+          git --version
           
           
           
